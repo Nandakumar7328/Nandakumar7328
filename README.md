@@ -35,15 +35,15 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="40" height="40"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" **alt="mongodb" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161660/react_original_wordmark_logo_icon_146375_va56l8.png" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161660/css_ew0vfq.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161660/javascript_1_lem1ox.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161726/file_type_js_official_icon_130509_u157po.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161660/sqlite_logo_icon_170706_ps8xhn.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161660/nodejs_original_wordmark_logo_icon_146412_qm2vkh.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161660/git_jcbbfq.png" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161660/python_vertical_logo_icon_168039_dpgwwf.png" title="python" **alt="python" width="40" height="40"/>
+     <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161660/mongodb_original_wordmark_logo_icon_146425_tnaq2o.png" title="mongodb" **alt="mongodb" width="40" height="40"/>
   
  
 </div>
