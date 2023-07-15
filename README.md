@@ -36,7 +36,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161660/react_original_wordmark_logo_icon_146375_va56l8.png" title="React" alt="React" width="40" height="40"/>&nbsp;
-   <img src="[https://asset.cloudinary.com/duv0mhzrm/bab3a7a0e491c5dc78f177c0565220bc](https://raw.githubusercontent.com/Nandakumar7328/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg)" title="Django" alt="django" width="40" height="40"/>&nbsp;
+   <img src="https://raw.githubusercontent.com/Nandakumar7328/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" title="Django" alt="django" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161660/css_ew0vfq.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161660/javascript_1_lem1ox.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161726/file_type_js_official_icon_130509_u157po.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
