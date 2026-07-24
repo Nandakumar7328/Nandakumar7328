@@ -1,58 +1,125 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/nandakumar-arjun/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+<div align="center">
+
+# Hi, I'm Nanda Kumar 👋
+
+### Python Full Stack Developer · AI Enthusiast · FastAPI · Django · Flask · React
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Building+with+FastAPI+%7C+Django+%7C+Flask+%7C+React;Building+AI-Powered+Applications;Exploring+LLMs+%2C+MCP+%26+Agentic+AI" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/nandakumar-arjun/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/Nandakumar7328">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Nandakumar7328&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+
 </div>
-  <img src="https://komarev.com/ghpvc/?username=your-Nandakumar7328&style=flat-square&color=blue" alt="linkedin"/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+<br/>
+
+## About Me
+
+I'm a Python Full Stack Developer focused on building scalable, production-ready web applications and exploring how AI can make them smarter. My day-to-day toolkit spans **FastAPI, Django, Flask, and React**, with a growing focus on **LLMs, MCP servers, and agentic AI systems**.
+
+- 🔭 Currently working as a **Python Full Stack Developer**
+- 🌱 Currently learning **AI, LLMs, MCP Servers & Agentic AI**
+- 💡 Building scalable web applications with **FastAPI, Django, Flask & React**
+- 🐳 Exploring **Docker, CI/CD, and cloud deployment**
+- 📚 Enjoy solving coding problems and picking up new technologies
+- ⚡ Fun fact: I like turning ideas into real, working applications
+
+<br/>
+
+## Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+
+**AI & Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+`OpenAI API` · `MCP Servers` · `LangChain` · `LLM Integrations`
+
+<br/>
+
+## Current Focus
+
+| Area | Details |
+|---|---|
+| 🤖 AI Applications | Building practical, LLM-powered tools |
+| 🧠 Large Language Models | Prompting, integration & fine-tuning basics |
+| ⚡ MCP Integration | Connecting agents to real-world tools |
+| 🐍 FastAPI Microservices | Clean, scalable backend architecture |
+| ⚛️ React + Vite | Fast, modern frontends |
+| 🐳 Docker & Deployment | Containerized, CI/CD-driven delivery |
+
+<br/>
+
+## Featured Projects
+
+**🔹 AI-Powered Web Applications**
+FastAPI + React apps with LLM integration and MCP servers for tool-using agents.
+
+**🔹 Python Full Stack Applications**
+End-to-end apps built with Django, Flask, and PostgreSQL.
+
+**🔹 REST APIs**
+Secure, well-structured APIs featuring JWT authentication, CRUD operations, and SQLAlchemy.
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Nandakumar7328&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandakumar7328&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+<img src="https://streak-stats.demolab.com/?user=Nandakumar7328&theme=tokyonight&hide_border=true"/>
+
 </div>
+
+## Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Nandakumar7328&theme=algolia&margin-w=15&margin-h=15&no-frame=true&column=7&cache=86400"/>
 </div>
----
 
-### :woman_technologist: About Me :
-  I am An aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-  
-  - :seedling: Exploring Technical Content Writing.
+## Contribution Graph
 
-  - :zap: In my free time, I solve problems on HackerRank and read tech articles.
-
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nandakumar-arjun/)
-  
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161660/react_original_wordmark_logo_icon_146375_va56l8.png" title="React" alt="React" width="40" height="40"/>&nbsp;
-   <img src="https://raw.githubusercontent.com/Nandakumar7328/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" title="Django" alt="django" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161660/css_ew0vfq.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161660/javascript_1_lem1ox.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161726/file_type_js_official_icon_130509_u157po.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161660/sqlite_logo_icon_170706_ps8xhn.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161660/nodejs_original_wordmark_logo_icon_146412_qm2vkh.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161660/git_jcbbfq.png" title="Git" **alt="Git" width="40" height="40"/>
-   <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161660/python_vertical_logo_icon_168039_dpgwwf.png" title="python" **alt="python" width="40" height="40"/>
-     <img src="https://res.cloudinary.com/duv0mhzrm/image/upload/v1675161660/mongodb_original_wordmark_logo_icon_146425_tnaq2o.png" title="mongodb" **alt="mongodb" width="40" height="40"/>
-  
- 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandakumar7328&theme=react-dark&hide_border=true"/>
 </div>
----
 
-### :fire: My Stats :
+<br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nandakumar7328&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandakumar7328&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
+### ⭐ If you like my work, consider starring my repositories!
 
+</div>
