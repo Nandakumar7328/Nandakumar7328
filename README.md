@@ -17,6 +17,9 @@
 <a href="https://github.com/Nandakumar7328">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+<a href="https://gleaming-puffpuff-2fb57c.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=Nandakumar7328&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 
@@ -90,6 +93,18 @@ End-to-end apps built with Django, Flask, and PostgreSQL.
 
 **🔹 REST APIs**
 Secure, well-structured APIs featuring JWT authentication, CRUD operations, and SQLAlchemy.
+
+<br/>
+
+## Portfolio
+
+Check out my portfolio for a closer look at my work, projects, and background:
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-36BCF7?style=for-the-badge&logo=firefox&logoColor=white)](https://gleaming-puffpuff-2fb57c.netlify.app)
+
+</div>
 
 <br/>
 
